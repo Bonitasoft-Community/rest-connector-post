@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel modelVersion="1.0" productVersion="7.9.3">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.StorageForRESTAnswer">
+            <fields>
+                <field type="INTEGER" length="255" name="idOfNewlyCreatedItem" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>
